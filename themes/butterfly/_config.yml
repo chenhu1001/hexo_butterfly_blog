@@ -316,8 +316,8 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  client_id: 80aaad7bc0127a236104
-  client_secret: bef99d841d963a996438066b00208155add3190c
+  client_id: 09a1682e016e92932b6e
+  client_secret: d6842da477afd3f246f9fda87b765c2fde2b3377
   repo: hexo_butterfly_blog
   owner: chenhu1001
   admin: chenhu1001
