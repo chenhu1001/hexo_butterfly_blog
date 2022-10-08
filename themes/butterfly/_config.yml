@@ -318,7 +318,7 @@ livere:
 gitalk:
   client_id: 80aaad7bc0127a236104
   client_secret: bef99d841d963a996438066b00208155add3190c
-  repo: hexo_blog
+  repo: hexo_butterfly_blog
   owner: chenhu1001
   admin: chenhu1001
   option:
@@ -448,7 +448,7 @@ footer:
   owner:
     enable: true
     since: 2016
-  custom_text: <a href="https://beian.miit.gov.cn/"><span>蜀ICP备2021023775号</span></a>
+  custom_text:
   copyright: true # Copyright of theme and framework
 
 # Analysis
